@@ -1,4 +1,4 @@
-l = []
+A = []
 for i in range(50):
-    l.append(i)
-print(l)
+    A.append(i)
+print(A)
